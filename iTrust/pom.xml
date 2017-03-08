@@ -3,6 +3,7 @@
   <groupId>iTrust</groupId>
   <artifactId>iTrust</artifactId>
   <version>23.0.0</version>
+	
   <packaging>war</packaging>
   <name>iTrust</name>
   <description>iTrust Maven Build</description>
